@@ -156,7 +156,8 @@ img, picture, video, canvas, svg {
     width: 100%;
     border-radius: 2rem;
     padding: 1rem;
-    margin-block-start: 1.5rem; 
+    margin-block-start: 1.5rem;
+    outline-offset: 2px; 
 }
 
 .summary_continue_btn:active {
